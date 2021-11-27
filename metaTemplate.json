@@ -1,0 +1,20 @@
+{
+    "name": "",
+    "symbol": "",
+    "description": "",
+    "seller_fee_basis_points": "",
+    "image": "",
+    "external_url": "",
+    "attributes": [
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": []
+    }
+}

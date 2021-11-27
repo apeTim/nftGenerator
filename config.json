@@ -1,0 +1,22 @@
+{
+    "outDir": "",
+    "amount": 1,
+    "startIndex": 0,
+    "width": 100,
+    "height": 100,
+    "name": "",
+    "symbol": "",
+    "description": "",
+    "seller_fee_basis_points": 0,
+    "creators": [
+        {
+            "address": "",
+            "share": 0
+        }
+    ],
+    "attributes": {
+        "asset": {
+            "type": 1
+        }
+    }
+}
